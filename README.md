@@ -11,5 +11,9 @@ This repository is dedicated to collecting **feedback, bug reports, and feature 
 ## Have an Idea?  
 If you have a **feature request**, post it under the **Issues** tab and tag it as `enhancement`.  
 
+## Screenshots
+
+![Screenshot 1](assets/vuequizzer1.jpg)
+![Screenshot 2](assets/vuequizzer2.jpg)
 
 VueQuizzer: **[Try it out here](https://kurtoglusefa.github.io/vuequizzer/#/)**  
